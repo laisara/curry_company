@@ -9,8 +9,6 @@ st.set_page_config(
 )
 
 
-
-#image_path = 'C:/Users/Lais/repos/ftc_programacao_python/'
 image = Image.open("images/logo.png")
 st.sidebar.image(image, width=120)
 
