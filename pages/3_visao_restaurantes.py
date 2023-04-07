@@ -126,7 +126,6 @@ df1 = clean_code(df_raw)
 
 st.header('Marketplace - Visão Restaurantes')
 
-#image_path = 'C:/Users/Lais/repos/ftc_programacao_python/logo.png'
 image = Image.open("images/logo.png")
 st.sidebar.image( image, width=120 )
 
